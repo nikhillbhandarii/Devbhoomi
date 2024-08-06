@@ -1,2 +1,2 @@
 # Devbhoomi
-Online travel company in uttrakhand 
+Online travel company in uttrakhand | OPEN Mainfile.html TO VIEW WEBSITE
